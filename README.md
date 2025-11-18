@@ -21,7 +21,7 @@ React table component with useful functions.
 [bundlephobia-url]: https://bundlephobia.com/result?p=@rc-component/table
 [bundlephobia-image]: https://badgen.net/bundlephobia/minzip/@rc-component/table
 
-## install
+## install the program
 
 [![@rc-component/table](https://nodei.co/npm/@rc-component/table.png)](https://npmjs.org/package/@rc-component/table)
 
